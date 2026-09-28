@@ -234,15 +234,14 @@ arel-cohort7-planning-project/
       06_absence_pattern_before_dropout.sql
       07_instructor_handoff_impact.sql
       08_course_cohort_ranking.sql
-  docs/
-      (screenshots of your charts)
+
 ```
 
 SQL scripts directory: `/sql/`
 
 ## Contact
 
-Name: [Your full name]
-LinkedIn: [Your LinkedIn profile URL]
-GitHub or portfolio: [Link to your GitHub profile or personal portfolio]
-Email: [Your professional email]
+LinkedIn: [GATLUAK GATKUOTH](: https://www.linkedin.com/GATLUAK GATKUOTH)
+
+GitHub : [GATLUAK GATKUOTH](https://github.com/GATLUAK GATKUOTH)
+
